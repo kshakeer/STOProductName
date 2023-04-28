@@ -1,1 +1,1 @@
-# STOProductName
+# STO Product Name
